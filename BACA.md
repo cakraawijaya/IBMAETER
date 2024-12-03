@@ -13,9 +13,9 @@ IBMAETER adalah sebuah website yang dirancang untuk mempermudah pengelolaan inve
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Masuk, Buat, Baca, Ubah, Hapus, Paginasi, Pencarian, Validasi, Cetak, Ekspor, DLL |
-| Kerangka Kerja | Bootstrap 4, CodeIgniter 4 |
-| Peralatan | Visual Studio Code, XAMPP (PHP Versi 7.4), Git |
+| Fitur | • Masuk<br>• Buat<br>• Baca<br>• Ubah<br>• Hapus<br>• Paginasi<br>• Pencarian<br>• Validasi<br>• Cetak<br>• Ekspor<br>• DLL |
+| Kerangka Kerja | • Bootstrap 4<br>• CodeIgniter 4<br>• Font-Awesome |
+| Peralatan | • Visual Studio Code<br>• Xampp<br>• Git |
 
 <br><br>
 

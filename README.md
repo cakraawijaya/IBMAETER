@@ -13,9 +13,9 @@ IBMAETER is a website designed to streamline warehouse inventory and workforce m
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Login, Create, Read, Update, Delete, Pagination, Search, Validation, Print, Export, ETC |
-| Framework | Bootstrap 4, CodeIgniter 4 |
-| Tools | Visual Studio Code, XAMPP (PHP Version 7.4), Git |
+| Features | • Login<br>• Create<br>• Read<br>• Update<br>• Delete<br>• Pagination<br>• Search<br>• Validation<br>• Print<br>• Export<br>• ETC |
+| Framework | • Bootstrap 4<br>• CodeIgniter 4<br>• Font-Awesome |
+| Tools | • Visual Studio Code<br>• Xampp<br>• Git |
 
 <br><br>
 
