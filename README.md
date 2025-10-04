@@ -218,7 +218,6 @@ BSD 3 CLAUSE LICENSE - Copyright © 2022 - Devan C. M. Wijaya et al
 
 Dissemination and use in source and binary form, with or without with or without modification, is allowed provided that the following conditions are met:
 
-
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation, and/or other materials included with the distribution.
